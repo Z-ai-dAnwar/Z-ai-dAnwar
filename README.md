@@ -12,8 +12,8 @@ Cut and format evidence cards from any source in seconds, search a database of ~
 🧬 **[auto-rob2](https://github.com/AliSalman-et-al/auto-rob2)** - Automated Cochrane Risk of Bias 2.0  
 Python and LLM pipeline that reads a clinical-trial PDF and drafts a RoB 2 risk-of-bias assessment for human reviewers. I'm one of two core developers on this Mayo Clinic project.
 
-🧠 **LifeOS** (private) - the Claude Code system I run my life out of  
-Agents, skills, hooks, and persistent memory handling my research, debate, applications, and project state.
+🧠 **LifeOS** (private) - my workspace for research, debate, and applications  
+Run with Claude Code agents, skills, and persistent memory.
 
 ---
 
