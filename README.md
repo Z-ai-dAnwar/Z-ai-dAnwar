@@ -10,7 +10,7 @@ medical evidence review, and an agentic personal-ops system on Claude Code.
 ### Featured
 
 🃏 **[debatecard.ai](https://debatecard.ai)** - AI debate-card generation (live product)  
-React/TS + Supabase + Remotion. Cuts evidence cards and renders video. Source private.
+React/TS + Supabase. Cuts and formats debate evidence cards from source documents. Source private.
 
 🧬 **[auto-rob2](https://github.com/AliSalman-et-al/auto-rob2)** - Automated Cochrane Risk of Bias 2.0  
 Python LLM pipeline scoring RCT PDFs for bias. Mayo Clinic research project I contribute to.
