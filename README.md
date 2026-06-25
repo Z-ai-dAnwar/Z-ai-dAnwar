@@ -12,8 +12,8 @@ medical evidence review, and an agentic personal-ops system on Claude Code.
 🃏 **[debatecard.ai](https://debatecard.ai)** - AI debate-card generation (live product)  
 React/TS + Supabase + Remotion. Cuts evidence cards and renders video. Source private.
 
-🧬 **[auto-rob2](https://github.com/Z-ai-dAnwar/auto-rob2)** - Automated Cochrane Risk of Bias 2.0  
-Python pipeline scoring RCT PDFs for bias. Mayo Clinic research collaboration.
+🧬 **[auto-rob2](https://github.com/AliSalman-et-al/auto-rob2)** - Automated Cochrane Risk of Bias 2.0  
+Python LLM pipeline scoring RCT PDFs for bias (Mayo Clinic research project). [My merged PRs](https://github.com/AliSalman-et-al/auto-rob2/pulls?q=is%3Apr+author%3AZ-ai-dAnwar+is%3Amerged): Domain 5 polarity + evidence packaging, trace plumbing + rate limiter.
 
 🧠 **lifeos** - Agentic personal-ops system on Claude Code (source private)  
 Subagents, MCP integrations, hooks, scheduled triggers. Runs research, writing, and scheduling.
