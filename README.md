@@ -12,6 +12,12 @@ Cut and format evidence cards from any source in seconds, search a database of ~
 🧬 **[auto-rob2](https://github.com/AliSalman-et-al/auto-rob2)** - Automated Cochrane Risk of Bias 2.0  
 Python and LLM pipeline that reads a clinical-trial PDF and drafts a RoB 2 risk-of-bias assessment for human reviewers. I'm one of two core developers on this Mayo Clinic project.
 
+📽️ **[paper-explainer](https://github.com/Z-ai-dAnwar/paper-explainer)** - turn any research paper into a narrated, animated explainer you watch ([live demo](https://z-ai-danwar.github.io/paper-explainer/))  
+A local, video-style player: real TTS voice, per-scene canvas animations, and a transcript that highlights each word as it's spoken. Fully offline, no API keys.
+
+🎬 **[reel-check](https://github.com/Z-ai-dAnwar/reel-check)** - paste a short-form video link, get an implement-or-skip verdict  
+A Claude Code skill that transcribes an Instagram/TikTok/YouTube link locally, fact-checks its claims, and tells you whether it's worth adding to your own setup.
+
 🧠 **LifeOS** (private) - a personal productivity system and workflow I built  
 Subagents, custom skills, hooks, and persistent memory that help me organize my research, debate, applications, and extracurriculars.
 
